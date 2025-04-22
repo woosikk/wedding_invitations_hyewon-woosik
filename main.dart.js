@@ -69888,7 +69888,7 @@ break
 case 1:return A.N(q,r)}})
 return A.O($async$oP,r)},
 M(a){var s=null
-return A.cC(A.ig(A.c([A.cC(A.mS("assets/images/guide.png",B.bd),s,s,300,s,s,s),A.nT(s,5,s),new A.EF(new A.XJ(this),s,s,s,s,s,s,!1,s,!0,s,A.yh("          RSVP          ",s,s,s,s,s,s,s,s,s,s,s),s)],t.E),B.af,B.ao),s,s,s,new A.dE(20,20,20,20),s,500)}}
+return A.cC(A.ig(A.c([A.cC(A.mS("assets/images/guide.png",B.bd),s,s,300,s,s,s),A.nT(s,5,s),new A.EF(new A.XJ(this),s,s,s,s,s,s,!1,s,!0,s,A.yh("          \ucc38\uc11d\uc5ec\ubd80\ud655\uc778          ",s,s,s,s,s,s,s,s,s,s,s),s)],t.E),B.af,B.ao),s,s,s,new A.dE(20,20,20,20),s,500)}}
 A.XJ.prototype={
 $0(){return this.a.oP()},
 $S:0}
